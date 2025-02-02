@@ -22,7 +22,7 @@
                 },
                 {
                     "question": "What languages does IPA Scribe support?",
-                    "answer": "IPA Scribe currently supports Arabic, Simplified Chinese, English (UK), English (US), Finnish, French (France), French (Canada), German, Japanese, Norwegian Bokmål, Spanish (Spain), Spanish (Mexico), and Swedish. Non-English (US) languages require IPA Scribe Pro."
+                    "answer": "IPA Scribe currently supports Arabic, Simplified Chinese, English (UK), English (US), Finnish, French (France), French (Canada), German, Japanese, Norwegian Bokmål, Spanish (Spain), Spanish (Mexico), and Swedish.\n\nNon-English (US) languages require IPA Scribe Pro."
                 },
                 {
                     "question": "What are the different ways I can transcribe language to IPA?",
@@ -34,7 +34,7 @@
                 },
                 {
                     "question": "How can I hear my IPA transcriptions?",
-                    "answer": "You can hear your device pronounce an IPA transcription by tapping on it."
+                    "answer": "You can hear your device pronounce an IPA transcription by tapping on it. Make sure your device isn't in silent mode!"
                 }
             ]
         },
@@ -98,15 +98,15 @@
                 },
                 {
                     "question": "Why is the paid tier necessary?",
-                    "answer": "IPA Scribe is built and maintained by a humble team of one! We're an SLP-owned, family-first business. We're not a faceless corporation with marketing budgets to spend, stockholder expectations to meet, and profits to extract at all costs. We're here to make SLP's lives' easier.\n\nThat said, building and maintaining IPA Scribe takes a lot of time and investment, and your support literally keeps the lights on. If you're an IPA Scribe member, thank you SO MUCH from the bottom of our hearts."
+                    "answer": "IPA Scribe is built and maintained by a humble team of one. We're an SLP-owned, family-first business. We're not a faceless corporation with marketing budgets to spend, stockholder expectations to meet, and profits to extract at all costs. We're here to make SLPs' lives easier.\n\nThat said, building and maintaining IPA Scribe takes a lot of time and investment, and your support literally keeps the lights on. If you're an IPA Scribe member, thank you SO MUCH from the bottom of our hearts."
                 },
                 {
                     "question": "What if I don't want to pay a subscription fee to access IPA Scribe Pro?",
-                    "answer": "We hear you! Subscriptions can be tough. If you'd like to avoid the subscription, we do have a lifetime one-time purchase option for you as well."
+                    "answer": "We hear you! Subscriptions can be tough. If you'd like to avoid the subscription, we offer a lifetime one-time purchase option in addition to the subscription option."
                 },
                 {
                     "question": "How can I cancel my subscription or request a refund?",
-                    "answer": "We make this easy to do so in the Settings screen under \"Subscription Center\". If you decide to do so, we'd love it if you could let us know why by providing feedback in the \"Feedback\" section of the Settings screen."
+                    "answer": "We make this easy to do so in the Settings screen under \"Subscription Center\".\n\nIf you decide to do so, we'd love it if you could let us know why by providing feedback in the \"Feedback\" section of the Settings screen so we can improve the app."
                 }
             ]
         }
