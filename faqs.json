@@ -4,25 +4,109 @@
             "title": "General Questions",
             "faqs": [
                 {
-                    "question": "What is Pines?",
-                    "answer": "Pines is a camping app designed to help you plan, organize, and track your camping trips with ease."
+                    "question": "What is IPA Scribe?",
+                    "answer": "IPA Scribe is a powerful tool thatdoes the heavy lifting of transcribing language to IPA notation for you, saving you hours of tedious work!"
                 },
                 {
-                    "question": "Is Pines available on both iOS and Android?",
-                    "answer": "Currently, Pines is available on iOS, with plans to expand to Android in the future."
+                    "question": "Is IPA Scribe available on both iOS and Android?",
+                    "answer": "IPA Scribe is currently available on iOS, macOS, and visionOS. We do not have plans to support Android at this time."
                 }
             ]
         },
         {
-            "title": "Account & Subscription",
+            "title": "IPA Transcriptions",
             "faqs": [
                 {
-                    "question": "How do I reset my password?",
-                    "answer": "You can reset your password by going to the login screen and tapping on 'Forgot Password'. Follow the instructions sent to your email."
+                    "question": "How does IPA Scribe transcribe speech?",
+                    "answer": "IPA Scribe uses a combination of speech-to-text and phonetic transcription to convert spoken language into IPA notation. It first uses a speech-to-text engine to convert the spoken language into text, then uses an advanced phonetic transcription engine to convert the text into IPA notation."
                 },
                 {
-                    "question": "What features are included in the Pro subscription?",
-                    "answer": "The Pro subscription unlocks advanced trip planning features, offline access, and additional customization options."
+                    "question": "What languages does IPA Scribe support?",
+                    "answer": "IPA Scribe currently supports Arabic, Simplified Chinese, English (UK), English (US), Finnish, French (France), French (Canada), German, Japanese, Norwegian Bokmål, Spanish (Spain), Spanish (Mexico), and Swedish. Non-English (US) languages require IPA Scribe Pro."
+                },
+                {
+                    "question": "What are the different ways I can transcribe language to IPA?",
+                    "answer": "You can transcribe language with IPA Scribe via audio recordings, live speech-to-text, written text, or by scanning a document with your camera."
+                },
+                {
+                    "question": "How can I export my IPA transcriptions?",
+                    "answer": "You can export IPA transcriptions from either IPA Scribe or the IPA Composer by clicking the export button in the top right hand corner of the screen, and then selecting the format that you'd like to use. Image, Spreadsheet, and Print export options require IPA Scribe Pro."
+                },
+                {
+                    "question": "How can I hear my IPA transcriptions?",
+                    "answer": "You can hear your device pronounce an IPA transcription by tapping on it."
+                }
+            ]
+        },
+        {
+            "title": "IPA Transcription Settings",
+            "faqs": [
+                {
+                    "question": "What is the \"Diacritic Marks\" setting?",
+                    "answer": "Diacritic marks are used for phonetic detail. They are added to IPA letters and denote a modification or specification of that letter's normal pronunciation. Enabling this setting will display diacritic marks in transcriptions."
+                },
+                {
+                    "question": "What is the \"Dialectical Pronunciations\" setting?",
+                    "answer": "IPA Scribe can display alternative pronunciations for some words. Enabling this setting will display the alternative pronunciations in the IPA transcriptions."
+                }
+            ]
+        },
+        {
+            "title": "Performing IPA Transcriptions",
+            "faqs": [
+                {
+                    "question": "How can I create an IPA transcription with live speech-to-text?",
+                    "answer": "In the bottom left-hand side of the IPA Scribe tab, tap the Microphone button and an IPA transcription will begin using speech-to-text. Stop the live transcription by tapping the Microphone button again."
+                },
+                {
+                    "question": "How can I create an IPA transcription with written text?",
+                    "answer": "Type your text into the text field in the IPA Scribe tab and we'll transcribe the text for you."
+                },
+                {
+                    "question": "How can I create an IPA transcription from an audio recording?",
+                    "answer": "Find the audio recording you'd like to transcribe outside of the app (for example, in the Voice Memos app), and share the audio recording. In the Voice Memos app, this is done by tapping the three dots by the recording and selecting \"Share\". In the screen that appears, scroll across the apps until you see IPA Scribe. You may have to push the \"More\" button to see it. Select IPA Scribe, and if you're an IPA Scribe Pro member, IPA Scribe will transcribe the audio recording for you."
+                },
+                {
+                    "question": "How can I create an IPA transcription by scanning a document?",
+                    "answer": "IPA Scribe Pro members can create an IPA transcription by scanning a document by tapping the document scan button in the lower-left corner of the IPA Scribe tab."
+                }
+            ]
+        },
+        {
+            "title": "IPA Composer",
+            "faqs": [
+                {
+                    "question": "What is the IPA Composer?",
+                    "answer": "The IPA Composer is a simple way for you to type IPA characters with your device."
+                },
+                {
+                    "question": "How can I use the IPA Composer?",
+                    "answer": "First, tap in the text field in the top area of the IPA Composer. The standard keyboard will appear, allowing you to type non-IPA characters. From there, you may also type the IPA characters by tapping on them, and can view IPA characters from other languages by tapping on the language button."
+                },
+                {
+                    "question": "How can I export text from the IPA Composer?",
+                    "answer": "You can export the text by tapping the Copy button in the top-left corner or the export button in the top-right corner."
+                }
+            ]
+        },
+        {
+            "title": "IPA Scribe Pro",
+            "faqs": [
+                {
+                    "question": "What is IPA Scribe Pro?",
+                    "answer": "IPA Scribe Pro is an optional paid tier of the IPA Scribe app that grants access to additional features, such as unlimited transcriptions, additional languages, multiple ways to export your transcriptions, and extra methods to enter transcriptions (audio files, document scanning, etc.)."
+                },
+                {
+                    "question": "Why is the paid tier necessary?",
+                    "answer": "IPA Scribe is built and maintained by a humble team of one! We're an SLP-owned, family-first business. We're not a faceless corporation with marketing budgets to spend, stockholder expectations to meet, and profits to extract at all costs. We're here to make SLP's lives' easier.\n\nThat said, building and maintaining IPA Scribe takes a lot of time and investment, and your support literally keeps the lights on. If you're an IPA Scribe member, thank you SO MUCH from the bottom of our hearts."
+                },
+                {
+                    "question": "What if I don't want to pay a subscription fee to access IPA Scribe Pro?",
+                    "answer": "We hear you! Subscriptions can be tough. If you'd like to avoid the subscription, we do have a lifetime one-time purchase option for you as well."
+                },
+                {
+                    "question": "How can I cancel my subscription or request a refund?",
+                    "answer": "We make this easy to do so in the Settings screen under \"Subscription Center\". If you decide to do so, we'd love it if you could let us know why by providing feedback in the \"Feedback\" section of the Settings screen."
                 }
             ]
         }
