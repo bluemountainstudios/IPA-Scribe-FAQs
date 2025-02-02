@@ -1,0 +1,30 @@
+{
+    "faqSections": [
+        {
+            "title": "General Questions",
+            "faqs": [
+                {
+                    "question": "What is Pines?",
+                    "answer": "Pines is a camping app designed to help you plan, organize, and track your camping trips with ease."
+                },
+                {
+                    "question": "Is Pines available on both iOS and Android?",
+                    "answer": "Currently, Pines is available on iOS, with plans to expand to Android in the future."
+                }
+            ]
+        },
+        {
+            "title": "Account & Subscription",
+            "faqs": [
+                {
+                    "question": "How do I reset my password?",
+                    "answer": "You can reset your password by going to the login screen and tapping on 'Forgot Password'. Follow the instructions sent to your email."
+                },
+                {
+                    "question": "What features are included in the Pro subscription?",
+                    "answer": "The Pro subscription unlocks advanced trip planning features, offline access, and additional customization options."
+                }
+            ]
+        }
+    ]
+}
